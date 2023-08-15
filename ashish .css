@@ -1,0 +1,275 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 500;
+    
+  
+
+}
+
+
+.main-head{
+    background: url(img/emily-bernal-v9vII5gV8Lw-unsplash.jpg);
+    height: 100%;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 15px;
+    background-size:contain;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+
+}
+.header-container{
+   
+    
+
+  
+    align-items: center;
+    
+    height: 550px;
+    width: 100%;
+    
+}
+
+
+
+
+    
+
+.header-container .container{
+    
+  
+    height: 55px;
+    width: 100%;
+    color: rgb(250, 247, 247);
+    background-color: rgba(8, 6, 6, 0.322);
+    
+
+}
+
+.header-container .container span{
+    text-shadow: none;
+    color: rgb(240, 127, 21);
+}
+
+/** main **/
+
+
+.main-view{
+    padding: 100px 0;
+   text-align: center;
+}
+.container1 h1{
+    font-size: 38px;
+    margin-top: 30px;
+    color: rgb(247, 249, 250);
+}
+.container1 p{
+    margin-top: 20px;
+    font-size: 21px;
+    color: rgb(247, 249, 250);
+}
+.container1 h4{
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgb(247, 249, 250);
+}
+.container1 span{
+    margin-top: 20px;
+    font-size: 19px;
+    color: rgb(240, 127, 21);
+}
+
+
+/** main end **/
+
+
+
+/** second row **/
+
+.about{
+    align-items: center;
+}
+
+.left-container{
+    display: flex;
+    padding: 20px;
+    padding-right: 20px;
+}
+
+.left-container img{
+    height: 500px;
+    padding: 60px;
+    border-radius: 10rem;
+}
+.right-side{
+    
+
+    
+}
+.right-side h1{
+    
+    margin-top: 150px;
+
+
+
+}
+span{
+    color: rgb(240, 127, 21);
+
+
+
+}
+
+.right-side p{
+   
+    margin-top: 30px;
+
+
+
+}
+/** row end */
+
+/** 3rd row start */
+
+.image-row{
+    background-color: rgba(239, 243, 247, 0.932);
+    
+    padding: 10px;
+    height: auto;
+    align-items: center;
+   
+}
+.image2{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+.image{
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+}
+section2 h1{
+    margin-left: 60px;
+    padding: 30px;
+
+}
+
+/** end 2 */
+.free-space{
+    height: 50px;
+}
+
+/** sec 3 */
+
+
+.section3{
+    background:url(img/fina.png) ;
+    border-radius: 10px;
+    
+    padding: px;
+    padding-top: 50px;
+    padding-left: 10vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+   
+
+}
+.progress-div{
+
+   
+   padding-top: 0px;
+   height: 300px;
+   width: 70%;
+}
+/** end3 */
+
+
+
+/** sec 4 */
+
+.skills-row{
+    text-align:start;
+   
+    display: flex;
+    justify-content: space-evenly;
+    padding:20 px;
+    padding-left: 100px;
+    background-color: rgba(199, 208, 214, 0.514);
+    padding-bottom: 100px;
+}
+.services{
+   
+
+   
+   
+    justify-content: space-evenly;
+    padding-bottom: px;
+    padding: 50px;
+    padding-left: 100px;
+    background-color: rgba(199, 208, 214, 0.514);
+    
+    
+}
+
+/** end4 */
+
+
+
+/** sec 5 */
+.footer{
+    background-image: url(img/pexels-vojtech-okenka-392018\ \(1\).jpg);
+    color: aliceblue;
+    background-size: contain;
+    background-size: cover;
+    padding: 100px;
+    height: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+.end-content{
+    align-items: center;
+    text-align: center;
+}
+.contact{
+   text-align: center;
+  
+   justify-content: space-around;
+  
+   padding-top: 50px;
+}
+.spann{
+    color: aliceblue;
+}
+
+/* end sec */
+.fa-solid{
+    float: left;
+}
+
+
+/* copy-right */
+
+.copy-right{
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 16px;
+}
+.copy-right p{
+
+    font-size: 8px;
+}
+.div{
+    font-size: 8px;
+}
